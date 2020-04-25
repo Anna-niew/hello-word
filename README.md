@@ -1,5 +1,5 @@
 # hello-word
-Una repository di prova per Github
+
 
 Salve,
 Cerco di capire come funziona Github
